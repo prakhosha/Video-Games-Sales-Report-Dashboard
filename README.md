@@ -1,5 +1,13 @@
+
+***
+
 # Video-Games-Sales-Report-Dashboard
-A dashboard that report about video games sales using loooker studio.
+
+**A dashboard that report about video games sales using loooker studio**
+
+*Posted on June 2023*
+
+***
 
 The data can be found [here](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
